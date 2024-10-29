@@ -1,8 +1,8 @@
-#### Install exe file on linux 
+#### Happy life 😊
 
 <pre>
 <code>
-sudo install wine
+Happy 😊 
 </code>
 </pre>
 
